@@ -94,3 +94,6 @@ Also we can delete this branch by residing in main
 ## git branch -d branchname
 branch will get deleted
 
+
+# resolving conflicts
+accept  changes 
