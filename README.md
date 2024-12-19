@@ -81,3 +81,16 @@ switch to branchname(dev1)
 ## git branch 
 for checking which branch are you in
 
+you  can go to your specific branch to develop by 2
+after development 
+we should merge to main branch 
+
+1. go to main branch
+ ##  git merge branchname
+ then changess will reflect in main branch 
+
+Also we can delete this branch by residing in main
+
+## git branch -d branchname
+branch will get deleted
+
