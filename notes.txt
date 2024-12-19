@@ -5,3 +5,4 @@ Git -> version control system
 
 m -> msg 
 git commit -m "msg"
+//setrdfghj
