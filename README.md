@@ -69,3 +69,15 @@ created a new file in github but it is not is in local how to do that
 pull request
 1. ## git pull origin main
 pull newly added file to local
+
+Branching strategy
+1. ## git branch branchname(dev1)
+created branch beanchname(dev1)
+it is exact replica of main branch
+
+2. ## git checkout branchname(dev1)
+switch to branchname(dev1)
+
+## git branch 
+for checking which branch are you in
+
