@@ -2,3 +2,6 @@ Github -> Repository
 Git -> version control system 
  it keeps track of your code when it is changing what changes made at what times 
  you can revert to prev version .. keeps track of everything of your code
+
+m -> msg 
+git commit -m "msg"
