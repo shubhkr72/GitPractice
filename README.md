@@ -64,3 +64,8 @@ user.name=your name}
 
 
 all set go for other concepts 
+
+created a new file in github but it is not is in local how to do that
+pull request
+1. ## git pull origin main
+pull newly added file to local
